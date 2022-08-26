@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Muhammad</h1>
-- 📫 How to reach me **tasuhanovw@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 
